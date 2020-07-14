@@ -1,0 +1,41 @@
+
+
+
+.accueil
+{
+    -fx-background-image: url("../images/background.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-opacity: 1;
+
+}
+
+.btn
+{
+    -fx-border-color: #eafeed;
+    -fx-text-fill: #feefe1;
+    -fx-opacity: 1;
+    -fx-border-width: 6px;
+    -fx-background-color: #f45549;
+}
+
+.btn:hover
+{
+    -fx-text-fill: #eafeed;
+    -fx-background-color: #f41152;
+    -fx-border-color: #000000;
+    -fx-border-width: 6px;
+}
+
+.form
+{
+    -fx-background-color: black;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-opacity: 0.9;
+}
+
+.txtField
+{
+    -fx-text-fill: white;
+}
